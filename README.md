@@ -2,7 +2,7 @@
 I'm Fletcher. By day I work as a D365 Finance and Operations developer at Lids, supporting their supply chain. By night, I'm a father to two littles, a husband, and a dog owner. I'm also co-owner of a new software startup that builds custom business applications. My technologies/languages of choice are Asp.Net Core and C#; I've worked with others but that's my bread and butter!
 - 📫 How to reach me: ...
   - :email: fletcher@magnifytechsolutions.com
-  - :computer: linkedin.com/in/fkitchell/
+  - :computer: <a href="www.linkedin.com/in/fkitchell/">linkedin.com/in/fkitchell/</a>
 
 - 🔭 I’m currently working on ...
   - A business application for the meat processing and packing industry. We call it "MeatNTidy" :).
