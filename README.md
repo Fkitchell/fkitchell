@@ -1,9 +1,11 @@
 ### Hi there 👋
-I'm Fletcher. By day I work as a D365 Finance and Operations developer at Lids, supporting their supply chain. By night, I'm a father to two littles, a husband, and a dog owner. I'm also co-owner of a new software startup that builds custom business applications. 
+I'm Fletcher. By day I work as a D365 Finance and Operations developer at Lids, supporting their supply chain. By night, I'm a father to two littles, a husband, and a dog owner. I'm also co-owner of a new software startup that builds custom business applications. My technologies/languages of choice are Asp.Net Core and C#; I've worked with others but that's my bread and butter!
+- 📫 How to reach me: ...
+  - :email: fletcher@magnifytechsolutions.com
+  - :computer: linkedin.com/in/fkitchell/
 
 - 🔭 I’m currently working on ...
   - A business application for the meat processing and packing industry. We call it "MeatNTidy" :).
-  
 - 🌱 I’m currently learning ...
   - About how to be my own DevOps team for the startup business I'm building. 
 - 👯 I’m looking to collaborate on ...
@@ -12,8 +14,7 @@ I'm Fletcher. By day I work as a D365 Finance and Operations developer at Lids, 
   - I tend to struggle to ask for help, so I while I don't think there's anything for this prompt...there almost definitely is.
 - 💬 Ask me about ...
   - My 95 pound boxer-lab mix, Solomon.
-- 📫 How to reach me: ...
-  - my email is fletcher@magnifytechsolutions.com
+
 <!--
 **Fkitchell/fkitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
