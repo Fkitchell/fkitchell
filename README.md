@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Fletcher. By day I work as a D365 Finance and Operations developer at Lids, supporting their supply chain. By night, I'm a father to two littles, a husband, and a dog owner. I'm also co-owner of a new software startup that builds custom business applications. My technologies/languages of choice are Asp.Net Core and C#; I've worked with others but that's my bread and butter!
+I'm Fletcher. By day I work as a software engineer for Belle Tire. By night, I'm a father to two littles, a husband, and a dog owner. I'm also co-owner of a new software startup that builds custom business applications. My technologies/languages of choice are Asp.Net Core and C#; I've worked with others but that's my bread and butter!
+
 - 📫 How to reach me: ...
   - :email: fletcher@magnifytechsolutions.com
   - :computer: <a href="https://www.linkedin.com/in/fkitchell/" target="blank">linkedin.com/in/fkitchell/</a>
@@ -14,7 +15,7 @@ I'm Fletcher. By day I work as a D365 Finance and Operations developer at Lids, 
   - I tend to struggle to ask for help, so I while I don't think there's anything for this prompt...there almost definitely is.
 - 💬 Ask me about ...
   - My 95 pound boxer-lab mix, Solomon.
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fkitchell)](https://git.io/streak-stats)
 <!--
 **Fkitchell/fkitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
