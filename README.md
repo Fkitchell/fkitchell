@@ -15,6 +15,7 @@ I'm Fletcher. By day I work as a software engineer for Belle Tire. By night, I'm
   - I tend to struggle to ask for help, so I while I don't think there's anything for this prompt...there almost definitely is.
 - 💬 Ask me about ...
   - My 95 pound boxer-lab mix, Solomon.
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fkitchell)](https://git.io/streak-stats)
 <!--
 **Fkitchell/fkitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
