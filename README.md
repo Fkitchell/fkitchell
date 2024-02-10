@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Fletcher. By day I work as a software engineer for Belle Tire. By night, I'm a father to two littles, a husband, and a dog owner. I'm also co-owner of a new software startup that builds custom business applications. My technologies/languages of choice are Asp.Net Core and C#; I've worked with others but that's my bread and butter!
+I'm Fletcher. I'm a father to three littles, a husband, and a dog owner. I'm also co-owner of a new software startup that builds custom business applications. My technologies/languages of choice are Asp.Net Core and C#; I've worked with others but that's my bread and butter!
 
 - 📫 How to reach me: ...
   - :email: fletcher@magnifytechsolutions.com
@@ -8,13 +8,13 @@ I'm Fletcher. By day I work as a software engineer for Belle Tire. By night, I'm
 - 🔭 I’m currently working on ...
   - A business application for the meat processing and packing industry. We call it "MeatNTidy" :).
 - 🌱 I’m currently learning ...
-  - About how to be my own DevOps team for the startup business I'm building. 
+  - About how to be my own DevOps team for my startup business. 
 - 👯 I’m looking to collaborate on ...
   - I'm open to hearing suggestions if you want to work together!
 - 🤔 I’m looking for help with ...
-  - An eager web developer to help build some front end features on a business project!
+  - An eager web developer to help build some front-end features on a business project!
 - 💬 Ask me about ...
-  - My 95 pound boxer-lab mix, Solomon.
+  - My 95-pound boxer-lab mix, Solomon.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fkitchell&theme=dark)](https://git.io/streak-stats)
 <!--
